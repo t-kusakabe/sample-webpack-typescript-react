@@ -1,0 +1,8 @@
+{
+  "name": "sample-webpack-typescript-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "t-kusakabe <ttmac0704@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
